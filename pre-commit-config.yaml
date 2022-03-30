@@ -1,0 +1,4 @@
+-   repo: https://github.com/GabrielEstefanski/azuredevops
+    rev: 'flake8'  # pick a git hash / tag to point to
+    hooks:
+    -   id: flake8

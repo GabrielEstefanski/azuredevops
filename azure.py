@@ -10,7 +10,7 @@ def get_request(url) -> str:
         url,
         headers={
             "Content-Type": "application/json",
-            "Authorization": "Basic <token>11111111111111111111111111111111111111111111111111111111111111111111",
+            "Authorization": "Basic <token>111111111111111111111111111111111111111111111111111111111111111111111",
         },
         verify=False,
     )
